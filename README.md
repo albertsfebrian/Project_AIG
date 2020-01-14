@@ -1,6 +1,8 @@
 # AIG_Project
 This game is made by Bina Nusantara Student to fulfil the AIG (Advance in Games) Project under the Supervision of our Lecturer D5555 - Parlinggoman Rinando Hasibuan.
 
+Run This File Using Unity Version 2018.2.8f1
+
 # Anggota Kelompok
 | NIM   |  Name       | LinkedIn       |
 | ----  | :--------:  | :------------: | 
